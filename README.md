@@ -10,8 +10,9 @@
 
 
 # HOTEL-PMS-ERP
-Gestion Hotel completa integrada en ERP
-Programa completo de gestion ERPT para HOTEL,  gestion de reservas, checkin- checkout, TPV, facturacion, compras, contabilidad, multicentro, multiempresa
+Gestion Hotel Restaurante  integrada en ERP
+
+Programa completo de gestion ERPT para HOTEL: Gestion de reservas, checkin-checkout, TPV, ventas-facturacion, compras, contabilidad, multicentro, multiempresa
 CONTROL DE USUARIOS
 ![image](https://github.com/VECTORNOU/HOTEL-PMS-ERP/assets/134919605/509dea44-66cf-4ca7-bb12-868816c4a7de)
 USUARIO: ADMINISTRADOR  PSWD: 1234
@@ -25,8 +26,9 @@ GESTION DE RESERVAS- MULTIHOTEL-
 GESTION HUESPEDES, EMPRESAS, AGENCIAS, TARIFAS, FICHA POLICIA, SISTEMAS DE PAGO, CONTABILIZACION VENTAS
 ![image](https://github.com/VECTORNOU/HOTEL-PMS-ERP/assets/134919605/362a093d-ce2e-433d-b2d3-2209be1c9604)
 
-TPVS  MODO MESAS - MODO BARRA, CONTROL DE CAMAREROS, CAJONES MULTIPLES, ENVIO COMANDAS A IMPRESORAS COCINA
-TRASPASO CONSUMOS A HABITACIONES, CIERRE CAJA, 
+# TPV:  
+MODO MESAS - MODO BARRA, CONTROL DE CAMAREROS, CAJONES MULTIPLES, ENVIO COMANDAS A IMPRESORAS COCINA
+TRASPASO CONSUMOS A HABITACIONES, ARQUEO DE CAJA, ASIENTO CONTABLE CIERRE CAJA. 
 ![image](https://github.com/VECTORNOU/HOTEL-PMS-ERP/assets/134919605/32a61086-d942-494f-9924-fbeb35c8305d)
 ![image](https://github.com/VECTORNOU/HOTEL-PMS-ERP/assets/134919605/788d6bac-8b67-4fcf-aaac-c28cbbb42585)
 ![image](https://github.com/VECTORNOU/HOTEL-PMS-ERP/assets/134919605/6136e12f-c46c-4826-9184-995ef1170e6a)
