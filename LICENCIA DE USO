@@ -2,20 +2,28 @@
 Esta licencia es un acuerdo legal entre usted y VECTORNOU S.L para el uso del Software ERP + PMS HOTEL MANAGEMENT (el "Software"). 
 Al obtener el Software, usted acepta cumplir con los términos y condiciones de esta licencia.
 
-USO PERMITIDO
+#USO PERMITIDO
 Se le permite usar, copiar, modificar y distribuir el Software y su documentación, con o sin modificaciones, para cualquier propósito, siempre y cuando se cumplan las siguientes condiciones:
 1. Se debe incluir una copia de este acuerdo de licencia con la distribución.
 2. Las redistribuciones del código fuente deben conservar el aviso de derechos de autor anterior en todos los archivos de código fuente.
 3. Las redistribuciones en forma binaria deben reproducir el aviso de derechos de autor anterior en la documentación y/u otros materiales proporcionados con la distribución.
 4. Los archivos que hayan sido modificados deben incluir avisos que indiquen la naturaleza del cambio y los nombres de quienes los hayan modificado.
 5. Los productos derivados del Software deben incluir un reconocimiento de que se derivan de CodeIgniter en su documentación y/u otros materiales proporcionados con la distribución.
-6. Los productos derivados del Software no pueden llamarse "CodeIgniter", ni "CodeIgniter" puede aparecer en su nombre, sin el permiso previo por escrito de EllisLab, Inc.
+6. Los productos derivados del Software no pueden llamarse "TG PROFESIONAL", ni "TG PROFESIONAL" puede aparecer en su nombre, sin el permiso previo por escrito de VECTORNOU S.L.
 
-INDEMNIZACIÓN
-Usted acepta indemnizar y mantener indemnes a los autores del Software y a cualquier colaborador por cualquier reclamación, acción o demanda de terceros directa, indirecta, incidental o consecuente, así como cualquier gasto, responsabilidad, daño, acuerdo o tarifa relacionados con su uso indebido o incorrecto del Software, o una violación de cualquier término de esta licencia.
+#INDEMNIZACIÓN
+Usted acepta indemnizar y mantener indemnes a los autores del Software y a cualquier colaborador por cualquier reclamación, 
+acción o demanda de terceros directa, indirecta, incidental o consecuente, así como cualquier gasto, responsabilidad, daño, 
+acuerdo o tarifa relacionados con su uso indebido o incorrecto del Software, o una violación de cualquier término de esta licencia.
 
-DESCARGO DE RESPONSABILIDAD
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITADO A, GARANTÍAS DE CALIDAD, RENDIMIENTO, NO INFRACCIÓN, COMERCIABILIDAD O ADECUACIÓN PARA UN PROPÓSITO PARTICULAR.
+#DESCARGO DE RESPONSABILIDAD
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITADO A, GARANTÍAS DE CALIDAD, RENDIMIENTO, NO INFRACCIÓN
+, COMERCIABILIDAD O ADECUACIÓN PARA UN PROPÓSITO PARTICULAR.
 
-LIMITACIÓN DE RESPONSABILIDAD
-USTED ASUME TODO EL RIESGO ASOCIADO CON LA INSTALACIÓN Y EL USO DEL SOFTWARE. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR DEL SOFTWARE SERÁN RESPONSABLES DE RECLAMOS, DAÑOS U OTRA RESPONSABILIDAD QUE SURJA, DERIVE O ESTÉ RELACIONADA CON EL SOFTWARE. LOS TITULARES DE LA LICENCIA SON LOS ÚNICOS RESPONSABLES DE DETERMINAR LA ADECUACIÓN DEL USO Y ASUMEN TODOS LOS RIESGOS ASOCIADOS CON SU USO, INCLUIDOS, PERO NO LIMITADOS A, LOS RIESGOS DE ERRORES DEL PROGRAMA, DAÑO AL EQUIPO, PÉRDIDA DE DATOS O PROGRAMAS DE SOFTWARE, O LA INDISPONIBILIDAD O INTERRUPCIÓN DE LAS OPERACIONES.
+#LIMITACIÓN DE RESPONSABILIDAD
+USTED ASUME TODO EL RIESGO ASOCIADO CON LA INSTALACIÓN Y EL USO DEL SOFTWARE. 
+EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR DEL SOFTWARE SERÁN RESPONSABLES DE RECLAMACIONES, 
+DAÑOS U OTRA RESPONSABILIDAD QUE SURJA, DERIVE O ESTÉ RELACIONADA CON EL SOFTWARE. 
+LOS TITULARES DE LA LICENCIA SON LOS ÚNICOS RESPONSABLES DE DETERMINAR LA ADECUACIÓN DEL USO Y ASUMEN TODOS LOS RIESGOS ASOCIADOS CON SU USO, 
+INCLUIDOS, PERO NO LIMITADOS A, LOS RIESGOS DE ERRORES DEL PROGRAMA, DAÑO AL EQUIPO, PÉRDIDA DE DATOS O PROGRAMAS DE SOFTWARE, 
+O LA INDISPONIBILIDAD O INTERRUPCIÓN DE LAS OPERACIONES.
